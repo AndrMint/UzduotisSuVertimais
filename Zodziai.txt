@@ -1,0 +1,10 @@
+Frog-varle
+Boat-laivas
+Car-masina
+Waves-bangos
+Glass-stiklas
+Extinguish-gesinti
+Jungle-jungles
+Country-salis
+Representative-atstovas
+State-valstija
